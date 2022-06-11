@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently working on Python.
-- 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate on Machine Learning and Deep Learning Project.
+🔭 I’m currently working on C#.
+- 🌱 I’m currently learning .NET Framework.
+- 👯 I’m looking to collaborate on .NET Project.
 - 🤔 I’m looking for help with Data Structures.
-- 💬 Ask me about Machine Learning.
+- 💬 Ask me about Front_End.
 - 📫 How to reach me: abhijeetthombare3052@gmail.com | https://www.linkedin.com/in/abhijeet-thombare-6165ab1b4
